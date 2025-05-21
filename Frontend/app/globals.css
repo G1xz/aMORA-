@@ -44,12 +44,13 @@ body {
   .dark {
     --background: 20 14.3% 4.1%;
     --foreground: 0 0% 95%;
-    --card: transparent; /* Adjusted to be transparent */
+    --card: transparent;
     --card-foreground: 0 0% 95%;
     --popover: 0 0% 9%;
     --popover-foreground: 0 0% 95%;
-    --primary: 102 59% 44%; /* Adjusted for #55B02E */
-    --primary-foreground: 0 0 100% --secondary: 240 3.7% 15.9%;
+    --primary: 102 59% 44%;
+    --primary-foreground: 0 0 100%;
+    --secondary: 240 3.7% 15.9%;
     --secondary-foreground: 0 0 100%;
     --muted: 0 0% 15%;
     --muted-foreground: 240 5% 64.9%;
@@ -59,7 +60,7 @@ body {
     --destructive-foreground: 0 85.7% 97.3%;
     --border: 240 3.7% 15.9%;
     --input: 240 3.7% 15.9%;
-    --ring: 102 59% 44%; /* Adjusted for #55B02E */
+    --ring: 102 59% 44%;
     --chart-1: 220 70% 50%;
     --chart-2: 160 60% 45%;
     --chart-3: 30 80% 55%;
